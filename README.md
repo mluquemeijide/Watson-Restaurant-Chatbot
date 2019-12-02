@@ -11,4 +11,5 @@ WORKSPACE_ID=<workspace_id>
 ```
 
 Then, install proyect's dependencies executing in your terminal the following: `npm install`
+
 To run the project execute in your terminal `node app.js`
